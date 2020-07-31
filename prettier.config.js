@@ -3,7 +3,7 @@
 // This configuration all the formats including typescript, javascript, json, yaml, markdown
 module.exports = {
   tabWidth: 2,
-  printWidth: 120,
+  printWidth: 140,
   semi: false,
   singleQuote: false,
   overrides: [
